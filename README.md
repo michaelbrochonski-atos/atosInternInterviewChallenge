@@ -20,7 +20,7 @@ As a user, I want to access a cart API where I can handle products, calculate to
 **Documentation Reference:**
 http://training.33b096.rest.picz.com.br:8197/swagger-ui.html#/cart-controller
 
-## Acceptance Criteria:**
+## Acceptance Criteria:
 
 **Functionality of the implemented API methods will be automatically evaluated taking into account:**
 1. It should be possible to use all methods of the documentation above.
