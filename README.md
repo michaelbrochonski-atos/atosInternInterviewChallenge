@@ -5,9 +5,9 @@
 ### Develop a shopping cart API functionalities
 
 **Use this Jbehave project as reference:**  
-*third-challenge/api-jbehave*   
+*interview-challenge/api-jbehave*   
 
-API Code: *third-challenge/ta-training-api*
+API Code: *interview-challenge/ta-training-api*
 
 ### Create automated tests based on the story below:
 
